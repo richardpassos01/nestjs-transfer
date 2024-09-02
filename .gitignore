@@ -1,0 +1,5 @@
+dist
+node_modules
+.env
+dev.sqlite3
+test.sqlite3
